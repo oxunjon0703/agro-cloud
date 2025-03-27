@@ -12,15 +12,15 @@ const Navbar = () => {
                     <div className="flex flex-col sm:flex-row gap-4 sm:gap-6">
                         <div className="flex items-center gap-2">
                             <Phone size={16} />
-                            <span>+998 71 123 4567</span>
+                            <span>+998 93 042 1242</span>
                         </div>
                         <div className="flex items-center gap-2">
                             <Mail size={16} />
-                            <span>info@agrocloud.uz</span>
+                            <span>abdusalomovfarruh822@gmail.com</span>
                         </div>
                         <div className="flex items-center gap-2">
                             <MapPin size={16} />
-                            <span>Tashkent, Uzbekistan</span>
+                            <span>Samarqnd, Uzbekistan</span>
                         </div>
                     </div>
 

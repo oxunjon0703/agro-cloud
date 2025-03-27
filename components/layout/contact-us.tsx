@@ -23,8 +23,8 @@ const ContactUs = () => {
                             <Phone className="text-blue-800 h-7 w-7" />
                         </div>
                         <h4 className="font-semibold text-gray-900 text-xl mb-3">Telefon</h4>
-                        <p className="text-gray-700">+998 99 185 3703</p>
-                        <p className="text-gray-700">+998 94 185 3703</p>
+                        <p className="text-gray-700">+998 93 042 1242</p>
+                        <p className="text-gray-700">+998 88 040 1242</p>
                     </div>
 
                     <div className="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center">
@@ -32,8 +32,8 @@ const ContactUs = () => {
                             <Mail className="text-blue-800 h-7 w-7" />
                         </div>
                         <h4 className="font-semibold text-gray-900 text-xl mb-3">Email</h4>
-                        <p className="text-gray-700">info@agrocloud.uz</p>
-                        <p className="text-gray-700">support@agrocloud.uz</p>
+                        <p className="text-gray-700">abdusalomovfarruh822@gmail.com</p>
+                        <p className="text-gray-700">farruhabdusalomov3@gmail.com</p>
                     </div>
 
                     <div className="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center">
@@ -41,8 +41,7 @@ const ContactUs = () => {
                             <MapPin className="text-blue-800 h-7 w-7" />
                         </div>
                         <h4 className="font-semibold text-gray-900 text-xl mb-3">Manzil</h4>
-                        <p className="text-gray-700">Tashkent city, Mirzo Ulug&apos;bek district,</p>
-                        <p className="text-gray-700">Mustaqillik Avenue, 15-uy</p>
+                        <p className="text-gray-700">Samarqand, Mirzo Ulugʻbek koʻchasi, 77</p>
                     </div>
                 </div>
 
